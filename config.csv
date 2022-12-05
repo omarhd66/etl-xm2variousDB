@@ -1,0 +1,8 @@
+RSBSS888_KPI_2G_NPO_BSC_Daily_1-NOKBSC-BSC-day-PM;Table1;D;1;3;Period start time;BSC name
+RSBSS888_KPI_2G_NPO_BSC_Hourly_1-NOKBSC-BSC-hour-PM;Table2;H;1;3;Period start time;BSC name
+RSBSS888_KPI_2G_NPO_Cell_Daily_1-NOKBSC-BTS-day-PM;Table3;D;1;3;Period start time;BSC name;BCF name;BTS name
+RSBSS888_KPI_2G_NPO_Cell_Hourly_1-NOKBSC-BTS-hour-PM;Table4;H;1;2;PERIOD_START_TIME;BSC name;BCF name;BTS name
+RSRAN000__System_Program__RNC_level_Daily-RSRAN-RNC-day-PM;Table5;D;2;4;Period start time;PLMN name;RNC name
+RSRAN000__System_Program__RNC_level_Hourly-RSRAN-RNC-hour-PM;Table6;H;2;4;Period start time;PLMN name;RNC name
+RSRAN001_Cell_Hourly_1-RSRAN-WCEL-hour-PM;Table7;H;1;2;PERIOD_START_TIME;PLMN name;RNC name;WBTS name;WBTS ID;WCEL name;WCEL ID
+RSRAN001__System_Program__Cell_level_Daily-RSRAN-WCEL-day-PM;Table8;D;2;4;Period start time;PLMN name;RNC name;WBTS name;WBTS ID;WCEL name;WCEL ID
